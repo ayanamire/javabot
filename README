@@ -1,0 +1,5 @@
+Main.java = Main file
+Run.java = Run code
+Connect.java = Connection handling
+Commands.java = Basic commands
+AuthCommand.java = Admin and in-depth commands
