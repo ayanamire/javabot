@@ -12,11 +12,11 @@ public class AuthCommand extends Commands
 	{
 		super.msg(message, name);
 	}
-	void ghost(String nick)
+	private void ghost(String nick)
 	{
 		// Ghost code
 	}
-	void release(String nick)
+	private void release(String nick)
 	{
 		// Release code
 	}
