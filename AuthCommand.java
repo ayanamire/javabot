@@ -1,9 +1,5 @@
 public class AuthCommand extends Commands
 {
-	private String name = null;
-	private String server = null;
-	private int port = 6667;
-	
 	public AuthCommand()
 	{
 		super();
